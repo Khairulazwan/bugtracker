@@ -1,1 +1,1 @@
-# bugtrakcer
+# bugtracker
