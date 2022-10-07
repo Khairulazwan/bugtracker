@@ -20,22 +20,22 @@ username: steverogers
 The password for all users are same which is "abc1234". 
 
 //Instruction Checklist
-● You have 7 days to complete the assessment from the day you received this
+- ● You have 7 days to complete the assessment from the day you received this
 email. 
 - DONE on 7/10/2022
-● The UX/UI is totally up to you. 
+- ● The UX/UI is totally up to you. 
 - DONE
-● Choose one of the following technologies that best suits your skillset:
+- ● Choose one of the following technologies that best suits your skillset:
 PHP, Node.JS, Python, JS Framework such as React, AngularJS or VueJS. 
 - DONE, Im using PHP with CodeIgniter framework.
-● The front-end should ideally be a single page app with a single index.html linking
+- ● The front-end should ideally be a single page app with a single index.html linking
 to external JS/CSS/etc. You may take this opportunity to demonstrate your CSS3
 or HTML5 knowledge. 
 - DONE, instead of using index.html, im using index.php. The file location is at application -> views ->index.php 
-● Please organize, design, test, document and deploy your code as if it were going
+- ● Please organize, design, test, document and deploy your code as if it were going
 into production, then send us a link to the hosted repository (e.g. Github, Bitbucket, etc.) 
 - DONE
-● The repo should include a README. Include the following items:
+- ● The repo should include a README. Include the following items:
 -Description of the solution.
 -Reasoning behind your technical choices, including architecture.
 -Link to the hosted application where applicable (e.g. Amazon EC2,
